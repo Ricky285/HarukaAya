@@ -20,20 +20,13 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!
+PM_START = """✨hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
-Destiny still arrives. Or should I say, I have.
+✨im a group manager bot maintained by [this person](tg://user?id={}).
 
-I'm world manager bot maintained by [this awesome person](https://t.me/Unknown_Hacker_005_X)!
+✨My future updates will be put into This Channel - @Gamerzcafe.🌧️This is my [Website](www.gamerzcafe.in),you can be a Hacker too same like me,Just Visit here [Click Here](www.gamerzcafe.in)..
 
-Click Help button to find out more about how to use me to my full potential.
-
-Special Thanks to @noobanon sar
-
-
-
-Earth. That is my price.!"""
+✨For more commands click /help..."""
 
 
 IMPORTED = {}
